@@ -1,0 +1,79 @@
+
+body{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#title{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(12, 10, 10);
+}
+.textArea{
+    width: 100%;
+    border-radius: 0%;
+}
+#Description
+{
+    color: rgb(207, 248, 255);
+    font-weight: 600;
+    margin: 0;
+    margin-bottom: 5px;
+    padding: 0;
+}
+
+.form-floating{
+    border-radius: 0%;
+    width: 100%;
+    margin-left: -12px;
+    margin-top: 5px;
+
+}
+#date{
+    margin-top: 5px;
+    border-style: none;
+}
+#add{
+    width: 100%;
+    align-content: center;
+}
+#lists{
+    text-align: center;
+    font-size: 3    0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(246, 133, 133);
+}
+.delete{
+    position: absolute;
+    margin-top: -28.35%;
+    margin-left: 30%;
+    width: 30%;
+    align-content: center;
+}
+
+
+
+
+
+/* * {
+    font-family: "lato", sans-serif;
+    font-weight: bold;
+}
+
+body {
+    background: rgb(245, 245, 245);
+    color: #333333;
+    margin-top: 20px;
+}
+
+.container {
+    display: block;
+    width: 400px;
+    margin: 0 auto;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+} */
